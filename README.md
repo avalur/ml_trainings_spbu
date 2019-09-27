@@ -1,2 +1,5 @@
-# ml_trainings_spbu
-For notebooks, slides and other materials.
+# Тренировки по машинному обучению в СПбГУ, ФМКН
+
+## Занятия
+
+[1. Введение, знакомство](maad01.md)
