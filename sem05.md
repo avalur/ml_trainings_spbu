@@ -1,3 +1,3 @@
-# 5. Рассказ о «бронзе» и разбор Cellular Image Classification
+# 5. Р Р°СЃСЃРєР°Р· Рѕ В«Р±СЂРѕРЅР·РµВ» Рё СЂР°Р·Р±РѕСЂ Cellular Image Classification
 
-* [слайды](05.cellular/)
+* [СЃР»Р°Р№РґС‹](05.cellular/)
