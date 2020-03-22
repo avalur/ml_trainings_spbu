@@ -15,3 +15,7 @@
 [6. Два «серебра» и про стартапы](06.two_comps_and_startups/)
 
 [7. Metric learning](07.metric_learning/)
+
+[8. Boosters seismic challenge](08.boosters.classification/)
+
+[9. Kaggle Bengali solution](09.kaggle_bengali/)
